@@ -1,0 +1,425 @@
+[main] INFO  com.bankapp.DatabaseConnection  - values should be integers
+[main] INFO  com.bankapp.DatabaseConnection  - values should be integers
+[main] WARN  com.bankapp.DatabaseConnection  - the second number should not be zero
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - customer details Not added 
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - customer details Not added 
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - customer details added successfully
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - customer details added successfully
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Account rejucted
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - Account rejucted
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - invalid login 
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter account number to display customer details
+[main] INFO  com.bankapp.BankAppMain  - Account number: 100003
+[main] INFO  com.bankapp.BankAppMain  - user name: krish123
+[main] INFO  com.bankapp.BankAppMain  - Password: krish@123
+[main] INFO  com.bankapp.BankAppMain  - Balance: 4000.0
+[main] INFO  com.bankapp.BankAppMain  - First name: krish
+[main] INFO  com.bankapp.BankAppMain  - Last name vinn
+[main] INFO  com.bankapp.BankAppMain  - Age:23
+[main] INFO  com.bankapp.BankAppMain  - phone number: 980746532
+[main] INFO  com.bankapp.BankAppMain  - email: krish@gnail.com
+[main] INFO  com.bankapp.BankAppMain  - aadhar number: 9087656
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1
+[main] INFO  com.bankapp.BankAppMain  - 100003
+[main] INFO  com.bankapp.BankAppMain  - 500.0
+[main] INFO  com.bankapp.BankAppMain  - withdraw
+[main] INFO  com.bankapp.BankAppMain  - ----------------------------------
+[main] INFO  com.bankapp.BankAppMain  - 2
+[main] INFO  com.bankapp.BankAppMain  - 100003
+[main] INFO  com.bankapp.BankAppMain  - 500.0
+[main] INFO  com.bankapp.BankAppMain  - Transfer
+[main] INFO  com.bankapp.BankAppMain  - ----------------------------------
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Check balance
+[main] INFO  com.bankapp.BankAppMain  - 2. withdraw
+[main] INFO  com.bankapp.BankAppMain  - 3. Money transfer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice
+[main] INFO  com.bankapp.BankAppMain  - Available balance: 2300
+[main] INFO  com.bankapp.BankAppMain  - 1. Check balance
+[main] INFO  com.bankapp.BankAppMain  - 2. withdraw
+[main] INFO  com.bankapp.BankAppMain  - 3. Money transfer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter first name:
+[main] INFO  com.bankapp.BankAppMain  - Enter last name:
+[main] INFO  com.bankapp.BankAppMain  - Enter your age:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter first name:
+[main] INFO  com.bankapp.BankAppMain  - Enter last name:
+[main] INFO  com.bankapp.BankAppMain  - Enter your age:
+[main] INFO  com.bankapp.BankAppMain  - Enter aadhar number:
+[main] INFO  com.bankapp.BankAppMain  - Enter phone number:
+[main] INFO  com.bankapp.BankAppMain  - Enter email:
+[main] INFO  com.bankapp.BankAppMain  - Create user name:
+[main] INFO  com.bankapp.BankAppMain  - create Password
+[main] INFO  com.bankapp.BankAppMain  - Enter intial deposite amount
+[main] INFO  com.bankapp.BankAppMain  - customer details added successfully
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - customer details added successfully
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter account number to display customer details
+[main] INFO  com.bankapp.BankAppMain  - Account number: 100002
+[main] INFO  com.bankapp.BankAppMain  - user name: ram123
+[main] INFO  com.bankapp.BankAppMain  - Password: ram@123
+[main] INFO  com.bankapp.BankAppMain  - Balance: 8000.0
+[main] INFO  com.bankapp.BankAppMain  - First name: ram
+[main] INFO  com.bankapp.BankAppMain  - Last name k
+[main] INFO  com.bankapp.BankAppMain  - Age:22
+[main] INFO  com.bankapp.BankAppMain  - phone number: 8790456723
+[main] INFO  com.bankapp.BankAppMain  - email: ram@gmail.com
+[main] INFO  com.bankapp.BankAppMain  - aadhar number: 980345
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1
+[main] INFO  com.bankapp.BankAppMain  - 100003
+[main] INFO  com.bankapp.BankAppMain  - 500.0
+[main] INFO  com.bankapp.BankAppMain  - withdraw
+[main] INFO  com.bankapp.BankAppMain  - ----------------------------------
+[main] INFO  com.bankapp.BankAppMain  - 2
+[main] INFO  com.bankapp.BankAppMain  - 100003
+[main] INFO  com.bankapp.BankAppMain  - 500.0
+[main] INFO  com.bankapp.BankAppMain  - Transfer
+[main] INFO  com.bankapp.BankAppMain  - ----------------------------------
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Check balance
+[main] INFO  com.bankapp.BankAppMain  - 2. withdraw
+[main] INFO  com.bankapp.BankAppMain  - 3. Money transfer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice
+[main] INFO  com.bankapp.BankAppMain  - Available balance: 2300
+[main] INFO  com.bankapp.BankAppMain  - 1. Check balance
+[main] INFO  com.bankapp.BankAppMain  - 2. withdraw
+[main] INFO  com.bankapp.BankAppMain  - 3. Money transfer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice
+[main] INFO  com.bankapp.BankAppMain  - Enter amount to withdraw:
+[main] INFO  com.bankapp.BankAppMain  - Amount withdraw successful
+[main] INFO  com.bankapp.BankAppMain  - 1. Check balance
+[main] INFO  com.bankapp.BankAppMain  - 2. withdraw
+[main] INFO  com.bankapp.BankAppMain  - 3. Money transfer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice
+[main] INFO  com.bankapp.BankAppMain  - Enter account number to transfer
+[main] INFO  com.bankapp.BankAppMain  - Enter amout to tranfer
+[main] INFO  com.bankapp.BankAppMain  - Amount tranfer comleted
+[main] INFO  com.bankapp.BankAppMain  - 1. Check balance
+[main] INFO  com.bankapp.BankAppMain  - 2. withdraw
+[main] INFO  com.bankapp.BankAppMain  - 3. Money transfer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - invalid login 
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - 1. Employee login
+[main] INFO  com.bankapp.BankAppMain  - 2. customer login
+[main] INFO  com.bankapp.BankAppMain  - 3. new customer
+[main] INFO  com.bankapp.BankAppMain  - 4. Exit
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - invalid login 
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - invalid login 
+[main] INFO  com.bankapp.BankAppMain  - Enter user name:
+[main] INFO  com.bankapp.BankAppMain  - Enter password:
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
+[main] INFO  com.bankapp.BankAppMain  - Enter 1 for create a account else any number to reject the customer: 
+[main] INFO  com.bankapp.BankAppMain  - Eneter id
+[main] INFO  com.bankapp.BankAppMain  - 1. Display new Customer
+[main] INFO  com.bankapp.BankAppMain  - 2 Display Customer account
+[main] INFO  com.bankapp.BankAppMain  - 3. Display Transaction
+[main] INFO  com.bankapp.BankAppMain  - 4. logout
+[main] INFO  com.bankapp.BankAppMain  - Enter your choice:
